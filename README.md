@@ -69,6 +69,23 @@ Follow these steps to analyze the data and create a dashboard in Power BI:
 ## Power BI Dashboard 🖥️
 The Power BI dashboard provides a comprehensive overview of the sales data, including key metrics and insights to aid decision-making.
 
+## Key Insights and Recommendations 📊
+#### 1. Bhubaneshwar has a high profit margin % 💹
+
+This implies that Bhubaneshwar can generate more profits if the revenue flow increases.
+#### 2. Mumbai is a significant contributor to profits 🏆
+
+Mumbai contributes more profits to the organization even when its revenue is less than that of Delhi.
+#### 3. Potential for revenue increase 📈
+
+This dashboard could help to increase the revenue by at least 6%.
+#### 4. High Revenue Markets 🏢
+
+Delhi and Mumbai are identified as high revenue markets. Focusing on these markets could lead to substantial profit growth.
+#### 5. Seasonal Trends 🌦️
+
+Analysis of the transactions over the year reveals seasonal trends. Marketing efforts can be aligned with these trends to maximize sales.
+
 ## Structure 📂
 db_dump.sql - The SQL dump file for setting up the database.
 
